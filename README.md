@@ -21,6 +21,7 @@ Depois treinamos um Naive Bayes para classificar:
 
 
 //////////////////////////////////////////////////////////////////////
+
 📦 Instalar dependências
 
 No terminal:
@@ -37,4 +38,5 @@ http://127.0.0.1:5000/
 
 
 Faça upload das duas imagens → recebe JSON com o resultado.
+
 /////////////////////////////////////////////////////////////////////
